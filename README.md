@@ -1,1 +1,2 @@
-# Deep_Learning_School
+# Deep Learning School
+Мои решения домашних заданий курса глубокого обучения от Deep Learning School. 
